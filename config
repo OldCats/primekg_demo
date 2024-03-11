@@ -1,0 +1,4 @@
+[Neo4j]
+username = neo4j
+password = primekg123
+host = bolt://localhost:7687

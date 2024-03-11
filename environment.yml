@@ -1,0 +1,13 @@
+name: primekg
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - nbserverproxy
+  - pip
+  - pip:
+    - jupyter-server-proxy
+    - configparser
+    - neo4j
